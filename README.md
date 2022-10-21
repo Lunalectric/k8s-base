@@ -1,2 +1,3 @@
 # k8s-base
-Base K8s manifests
+
+Here's where we keep all our base configs for the production Kubernetes cluster.
